@@ -1,3 +1,7 @@
 ### npRNN
 
-toy rnn build in numpy. not complete.
+Toy Language Models in NumPy
+
+1. [RNN](RNN)
+2. [LSTM](LSTM)
+3. [GRU](GRU)
